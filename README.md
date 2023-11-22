@@ -1,2 +1,5 @@
 # rust-book-projects
-Projects from https://rust-book.cs.brown.edu/
+
+Each crate is an individual project from the interactive Rust book https://rust-book.cs.brown.edu/
+
+- guessing_game: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
