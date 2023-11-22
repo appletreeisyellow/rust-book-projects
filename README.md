@@ -2,7 +2,9 @@
 
 Each crate is an individual project from the interactive Rust book https://rust-book.cs.brown.edu/
 
-- guessing_game: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
+- [x] guessing_game: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
+- [ ] minigrep https://rust-book.cs.brown.edu/ch12-00-an-io-project.html
+- [ ] hello https://rust-book.cs.brown.edu/ch20-00-final-project-a-web-server.html
 
 ## Notes
 
